@@ -5,6 +5,8 @@
 
 ![Ramon GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramon-Dev7&show_icons=true&theme=dracula)
 
+![Ramon GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon-Dev7&hide_progress=true)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
