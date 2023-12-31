@@ -14,6 +14,6 @@
      <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div><br>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+“📚 Aprendendo dia após dia, construindo o futuro um código de cada vez.”
 
 
